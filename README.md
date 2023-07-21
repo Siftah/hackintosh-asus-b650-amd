@@ -2,17 +2,13 @@
 
 | Component        | Model                         			|
 | ---------------- | --------------------------------------	|
-| Motherboard      | Asus ROG Strix B650E-F        			|
-| CPU              | AMD Ryzen 9 7900X             			|
-| Memory           | G.Skill Flare X5 32GB 6000MHz 			|
-| GPU              | Sapphire Nitro+ Radeon RX 6950 XT		|
-| WLAN & Bluetooth | Fenvi T919 							|
-| Chassis          | Fractal North							|
-| Storage NVMe     | SK hynix Platinum P41 2TB				|
-| Storage NVMe     | Inland Performance Plus 2TB			|
-| Storage NVMe     | Crucial P3 Plus 2TB					|
-| Storage SSD      | Samsung 870 EVO 1TB					|
-| Storage NVMe     | Samsung 860 EVO 1TB					|
+| Motherboard      | Asus TUF Gaming B650-PLUS        			|
+| CPU              | AMD Ryzen 9 7800X3D             			|
+| Memory           | G.Skill Trident Z5 DDR5-6400 			|
+| GPU              | PowerColor Red Devil RX 6900 XT		|
+| WLAN & Bluetooth | None 							|
+| Chassis          | Corsair							|
+| Storage NVMe     | Samsung 970Plus 2TB				|
 ## Software
 
 | Component | Model  |
